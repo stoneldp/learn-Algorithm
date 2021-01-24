@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="1.23 update git">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learnAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/Git简介/集中式VS分布式.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/Git简介/集中式VS分布式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/安装Git/Git安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/安装Git/Git安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/安装Git/Git版本库.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/安装Git/Git版本库.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/Git/Git简介/集中式VS分布式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <first_editor relative-caret-position="405">
+                <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
               </first_editor>
               <second_editor />
             </state>
@@ -240,14 +233,30 @@
       <option name="project" value="LOCAL" />
       <updated>1611413500418</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1.23 update git">
+      <created>1611448092661</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611448092662</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
+    <frame x="713" y="-7" width="735" height="935" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49937734" visible="true" weight="0.021141648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49937734" visible="true" weight="0.042918455" />
       <window_info id="Structure" order="1" sideWeight="0.5006227" side_tool="true" weight="0.29598308" />
       <window_info id="Favorites" order="2" sideWeight="0.5006227" side_tool="true" weight="0.0880902" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -405,8 +414,8 @@
     <entry file="file://$PROJECT_DIR$/Git/Git简介/集中式VS分布式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
           </first_editor>
           <second_editor />
         </state>
