@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/Git/安装Git/Git版本库.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <first_editor relative-caret-position="540">
+                <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,10 +99,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1069" />
-    <option name="width" value="1100" />
-    <option name="height" value="1391" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1068" />
+    <option name="width" value="1101" />
+    <option name="height" value="1392" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,7 +145,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-financial" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -268,10 +268,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="713" y="0" width="733" height="927" extended-state="0" />
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49937734" visible="true" weight="0.043041606" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49937734" visible="true" weight="0.021141648" />
       <window_info id="Structure" order="1" sideWeight="0.5006227" side_tool="true" weight="0.29598308" />
       <window_info id="Favorites" order="2" sideWeight="0.5006227" side_tool="true" weight="0.0880902" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -401,8 +401,8 @@
     <entry file="file://$PROJECT_DIR$/Git/安装Git/Git版本库.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <first_editor relative-caret-position="540">
+            <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
