@@ -1,3 +1,4 @@
+/*C语言*/
 #include <stdio.h>
 
 int main() {
