@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/安装Git/Git安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/安装Git/Git安装.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Git/安装Git/Git版本库.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/安装Git/Git版本库.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,46 +17,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Git/安装Git/Git版本库.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="722">
-                <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+              <first_editor relative-caret-position="573">
+                <caret line="51" selection-start-line="51" selection-end-line="53" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Git/安装Git/Git安装.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Git/Git简介/Git 的诞生.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Git/Git简介/集中式VS分布式.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -93,14 +72,16 @@
         <option value="$PROJECT_DIR$/GTD/安装Git/GIT版本库.md" />
         <option value="$PROJECT_DIR$/GTD/安装Git/Git安装.md" />
         <option value="$PROJECT_DIR$/GTD/安装Git/Git版本库.md" />
-        <option value="$PROJECT_DIR$/Git/安装Git/Git安装.md" />
         <option value="$PROJECT_DIR$/Git/Git简介/集中式VS分布式.md" />
+        <option value="$PROJECT_DIR$/数组/main.c" />
         <option value="$PROJECT_DIR$/Git/安装Git/Git版本库.md" />
+        <option value="$PROJECT_DIR$/Git/安装Git/Git安装.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1068" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1101" />
     <option name="height" value="1392" />
   </component>
@@ -136,6 +117,16 @@
               <item name="Git" type="462c0819:PsiDirectoryNode" />
               <item name="安装Git" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +136,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ldp-GTD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-financial" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -262,7 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611708516317</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1.23 update git">
+      <created>1611834021081</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611834021081</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.28 update git">
+      <created>1611838370903</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611838370903</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -278,7 +283,7 @@
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49937734" visible="true" weight="0.021141648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49937734" visible="true" weight="0.16208598" />
       <window_info id="Structure" order="1" sideWeight="0.5006227" side_tool="true" weight="0.29598308" />
       <window_info id="Favorites" order="2" sideWeight="0.5006227" side_tool="true" weight="0.0880902" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -380,7 +385,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新" />
     <MESSAGE value="1.23 update git" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.23 update git" />
+    <MESSAGE value="1.28 update git" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.28 update git" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Git cmd/上传代码至GitHub.md" />
@@ -405,26 +411,6 @@
     <entry file="file://$PROJECT_DIR$/GTD/安装Git/安装.md" />
     <entry file="file://$PROJECT_DIR$/GTD/安装Git/Git安装.md" />
     <entry file="file://$PROJECT_DIR$/GTD/安装Git/Git版本库.md" />
-    <entry file="file://$PROJECT_DIR$/Git/安装Git/Git版本库.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="722">
-            <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Git/安装Git/Git安装.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Git/Git简介/Git 的诞生.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -438,6 +424,33 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="285">
             <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git/安装Git/Git版本库.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="573">
+            <caret line="51" selection-start-line="51" selection-end-line="53" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git/安装Git/Git安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
