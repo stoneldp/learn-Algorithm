@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Git/安装Git/GitHub.com/GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/安装Git/GitHub.com/GitHub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/安装Git/GitHub.com/GitHub入门/GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/安装Git/GitHub.com/GitHub入门/GitHub.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +140,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610491313072</updated>
-      <workItem from="1616070473459" duration="3444000" />
+      <workItem from="1616070473459" duration="3812000" />
+      <workItem from="1616153939715" duration="1656000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1611383465295</created>
@@ -309,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616073706546</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="3.18 update git">
+      <created>1616073993098</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1616073993098</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
