@@ -141,7 +141,7 @@
       <updated>1610491313072</updated>
       <workItem from="1616070473459" duration="3812000" />
       <workItem from="1616153939715" duration="2435000" />
-      <workItem from="1616241175330" duration="1201000" />
+      <workItem from="1616241175330" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1611383465295</created>
@@ -325,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616161036031</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="3.20 update git">
+      <created>1616243070176</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616243070176</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -421,7 +428,8 @@
     <MESSAGE value="1.28 update git" />
     <MESSAGE value="3.18 update git" />
     <MESSAGE value="3.19 update git" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.19 update git" />
+    <MESSAGE value="3.20 update git" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.20 update git" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Git cmd/上传代码至GitHub.md" />
