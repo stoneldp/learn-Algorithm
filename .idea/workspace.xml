@@ -117,9 +117,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -142,6 +144,7 @@
       <workItem from="1616070473459" duration="3812000" />
       <workItem from="1616153939715" duration="2435000" />
       <workItem from="1616241175330" duration="2066000" />
+      <workItem from="1635293984697" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1611383465295</created>
