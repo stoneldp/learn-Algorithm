@@ -23,6 +23,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="3343928047@qq.com" />
         <option value="Alidp &lt;3343928047@qq.com&gt;" />
         <option value="stoneldp &lt;3343928047@qq.com&gt;" />
         <option value="smile &lt;3343928047@example.com&gt;" />
@@ -154,7 +155,7 @@
       <workItem from="1616070473459" duration="3812000" />
       <workItem from="1616153939715" duration="2435000" />
       <workItem from="1616241175330" duration="2066000" />
-      <workItem from="1635293984697" duration="1549000" />
+      <workItem from="1635293984697" duration="2088000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1611383465295</created>
@@ -352,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635294986535</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="10.27 update">
+      <created>1635295969715</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1635295969715</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
