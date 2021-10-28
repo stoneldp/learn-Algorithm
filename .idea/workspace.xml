@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="" />
+    <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/编译原理/引论/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/编译原理/引论/基本概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/编译原理/引论/基本概念.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +159,8 @@
       <workItem from="1616070473459" duration="3812000" />
       <workItem from="1616153939715" duration="2435000" />
       <workItem from="1616241175330" duration="2066000" />
-      <workItem from="1635293984697" duration="2088000" />
+      <workItem from="1635293984697" duration="5870000" />
+      <workItem from="1635387472830" duration="1318000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1611383465295</created>
@@ -360,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635295969715</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="10.27 update">
+      <created>1635296577813</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1635296577813</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
