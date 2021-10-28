@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/编译原理/引论/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/编译原理/引论/基本概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/编译原理/引论/基本概念.md" afterDir="false" />
     </list>
@@ -160,7 +159,7 @@
       <workItem from="1616153939715" duration="2435000" />
       <workItem from="1616241175330" duration="2066000" />
       <workItem from="1635293984697" duration="5870000" />
-      <workItem from="1635387472830" duration="1318000" />
+      <workItem from="1635387472830" duration="2292000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1611383465295</created>
@@ -372,7 +371,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635296577813</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="10.28 update">
+      <created>1635388815807</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1635388815807</updated>
+    </task>
+    <task id="LOCAL-00032" summary="10.28 update">
+      <created>1635388996032</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635388996032</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -470,7 +483,8 @@
     <MESSAGE value="3.19 update git" />
     <MESSAGE value="3.20 update git" />
     <MESSAGE value="10.27 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.27 update" />
+    <MESSAGE value="10.28 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.28 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Git cmd/上传代码至GitHub.md" />
