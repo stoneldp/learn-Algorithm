@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="" />
+    <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/算法设计与分析/基础知识/算法复杂度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -417,7 +420,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635394493904</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="10.28 update">
+      <created>1635513891735</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1635513891735</updated>
+    </task>
+    <task id="LOCAL-00039" summary="10.29 update">
+      <created>1635513956781</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1635513956781</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -516,7 +533,8 @@
     <MESSAGE value="3.20 update git" />
     <MESSAGE value="10.27 update" />
     <MESSAGE value="10.28 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.28 update" />
+    <MESSAGE value="10.29 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.29 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Git cmd/上传代码至GitHub.md" />
