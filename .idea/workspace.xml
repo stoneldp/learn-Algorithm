@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddba0482-e1a0-473e-85af-e8351b2d946a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法设计与分析/基础知识/算法复杂度.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,6 +132,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -434,7 +434,28 @@
       <option name="project" value="LOCAL" />
       <updated>1635513956781</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="10.30 update">
+      <created>1635565365742</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1635565365742</updated>
+    </task>
+    <task id="LOCAL-00041" summary="10.30 update">
+      <created>1635565474083</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1635565474083</updated>
+    </task>
+    <task id="LOCAL-00042" summary="10.30 update">
+      <created>1635565577552</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1635565577552</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView">
@@ -534,7 +555,8 @@
     <MESSAGE value="10.27 update" />
     <MESSAGE value="10.28 update" />
     <MESSAGE value="10.29 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.29 update" />
+    <MESSAGE value="10.30 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.30 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Git cmd/上传代码至GitHub.md" />
