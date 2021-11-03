@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GTD/ldp-GTD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/算法设计与分析/基础知识" vcs="Git" />
   </component>
 </project>
